@@ -1,7 +1,3 @@
-Apologies for the oversight. Let's structure the README file more traditionally for GitHub. Here's a revised version:
-
----
-
 # CineVerse
 
 CineVerse is a movie exploration platform powered by The Movie Database (TMDb) API. It allows users to discover movies based on their favorite artists, explore movie details, and more.
